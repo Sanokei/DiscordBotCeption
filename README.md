@@ -1,5 +1,5 @@
 # DiscordBotCeption
- A discord bot that creates discord bots... (Cortex GPT-3)
+ A discord bot that creates discord bots... (Codex GPT-3)
  
  Commands:
   - !createBot: Creates a new bot
